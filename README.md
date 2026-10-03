@@ -1,24 +1,22 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub followers](https://img.shields.io/github/followers/yasirshah-csds?label=Followers&style=flat-square)](https://github.com/yasirshah-csds)
+[![Email](https://img.shields.io/badge/Email-yasirki%40umich.edu-blue?style=flat-square)](mailto:yasirki@umich.edu)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm **Yasir Shah**. I'm a Computer Science & Data Science student at the University of Michigan-Dearborn. I work on full-stack web applications, machine learning projects, and data science initiatives with a focus on Python, JavaScript/TypeScript, and modern web frameworks like Next.js.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Farmington Hills, MI
+- 🎓 Education: University of Michigan-Dearborn (B.S. Computer Science & Data Science, Expected May 2028)
+- 📅 Coding Since: 2023
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🏢 [House of KPK](https://github.com/yasirshah-csds) — Full-stack catering, admin, and POS platform with customer workflows and order tracking. (Next.js, JavaScript, SQL)
+- 🏋️ [Trainly](https://github.com/yasirshah-csds/Trainly) — Fitness recommendation engine using content-based filtering with ML models for personalized workout suggestions. (Python, scikit-learn, SQLite)
+- 💬 [Twitter Clone](https://github.com/yasirshah-csds) — Full-stack social media platform with authentication, feeds, posts, comments, and JDBC persistence. (Java, Servlets, JSP, MySQL)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, Java, JavaScript, C++, SQL, R, HTML/CSS
+- 🔭 Focus: Full-Stack Development, Machine Learning, Data Science, Recommendation Engines, Web APIs
+- ❤️ Interests: Hackathons, Building scalable applications, Data visualization, Community leadership
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
