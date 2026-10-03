@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/yasirshah-csds?label=Followers&style=flat-square)](https://github.com/yasirshah-csds)
-[![Email](https://img.shields.io/badge/Email-yasirki%40umich.edu-blue?style=flat-square)](mailto:yasirki@umich.edu)
+[![Email](https://img.shields.io/badge/Email-yasirki%40umich.edu-blue?style=flat-square)](mailto:yasirshah.yas@gmail.com)
 
 ## About
 👋 Heyo, I'm **Yasir Shah**. I'm a Computer Science & Data Science student at the University of Michigan-Dearborn. I work on full-stack web applications, machine learning projects, and data science initiatives with a focus on Python, JavaScript/TypeScript, and modern web frameworks like Next.js.
